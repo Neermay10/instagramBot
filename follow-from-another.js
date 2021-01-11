@@ -1,6 +1,6 @@
 (() => {
   const MAX_FOLLOW_BY_EXECUTION = 40;
-  const CLASS_BTN_FOLLOW = '.sqdOP:not(._8A5w5)';
+  const CLASS_BTN_FOLLOW = '.sqdOP.L3NKy.y3zKF:not(._8A5w5)';
 
   const btns = Array.from(document.querySelectorAll(CLASS_BTN_FOLLOW));
   let count = 1;
