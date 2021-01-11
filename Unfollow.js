@@ -1,6 +1,6 @@
 (() => {
     let i = 0;
-    letcount = 0;
+    let count = 0;
     const unfollowInterval = setInterval(()=> {
         if (count >= 100){
             clearInterval(unfollowInterval)
